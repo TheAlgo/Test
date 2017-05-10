@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string-array name="filmname">
+        <item>"Raees"</item>
+        <item>"Race"</item>
+        <item>"Dulhan"</item>
+        <item>"Dilwale"</item>
+        <item>"Golmaal"</item>
+        <item>Bahubali</item>
+
+    </string-array>
+    <string-array name="dirname">
+        <item>"Dhiraj"</item>
+        <item>"Subham"</item>
+        <item>"Nihal"</item>
+        <item>"Gopi"</item>
+        <item>"Bhaskar"</item>
+        <item>"Sonu</item>
+
+    </string-array>
+</resources>
